@@ -17,4 +17,4 @@ The Tools and the technologies I've used:
 ### Authentication and Usres:
 #### Please note that these routes do not work properly since the session store has not been enabled yet, this issue will be fixed in the coming commits.
 * http://localhost:3000/member-data
-  - Informs the user of the fact that they're logged-in if they actually are, that is. 
+  - Informs the user of the fact that they're logged-in if they actually are. 
