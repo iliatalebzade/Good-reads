@@ -15,6 +15,5 @@ The Tools and the technologies I've used:
 ### Books:
 * http://localhost:3000/api/v1/books/:id
 ### Authentication and Usres:
-#### Please note that these routes do not work properly since the session store has not been enabled yet, this issue will be fixed in the coming commits.
 * http://localhost:3000/member-data
-  - Informs the user of the fact that they're logged-in if they actually are. 
+  - Informs the user of the fact that they're logged-in if they actually are, otherwise, it will redirect the user with a status of 401.
