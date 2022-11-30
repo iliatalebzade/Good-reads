@@ -59,3 +59,5 @@ gem 'rack-cors'
 # pagination
 gem 'kaminari', '~> 1.2', '>= 1.2.2'
 gem "annotate", "~> 3.2", :group => :development
+gem 'redis'
+gem 'hiredis'
